@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TodoListAPI": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "launchUrl": "http://localhost:5000/api/v1/todo-items",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
